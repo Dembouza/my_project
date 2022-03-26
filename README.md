@@ -2,8 +2,8 @@
 <!--EDIT starts here -->
 
 
-<h1 align="center">Hi 👋, I'm "YOUR_NAME"</h1>
-<h3 align="center">Student at "COLLEGE_NAME"🌟.</h3>
+<h1 align="center">Hi 👋, I'm "Ayman"</h1>
+<h3 align="center">Student at "Sahyadri College"🌟.</h3>
 
 <br>
 
@@ -16,9 +16,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Python via Jupyter Notebook GFGF
 
-- 📫 How to reach me **EMAIL_ID**
+- 📫 How to reach me **EMEJEWHEJD**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
